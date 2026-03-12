@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Shiyam",
+    "email": "vstteddy220910@gmail.com",
+    "password": "admin123",
+    "role": "Web Developer"
+  },
+  {
+    "id": 2,
+    "name": "Santhosh Ravi",
+    "email": "santhoshravi7503@gmail.com",
+    "password": "san123",
+    "role": "Java Developer"
+  },
+  {
+    "id": 3,
+    "name": "Suriya",
+    "email": "usuriya0809@gmail.com",
+    "password": "suriya123",
+    "role": "Junier Developer"
+  }
+]
